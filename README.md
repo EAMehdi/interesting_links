@@ -23,3 +23,5 @@ List of personal links I found interesting :
 [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
+
+[Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
