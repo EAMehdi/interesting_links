@@ -25,3 +25,5 @@ List of personal links I found interesting :
 [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
 
 [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
+
+[How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
